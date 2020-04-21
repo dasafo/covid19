@@ -12,7 +12,7 @@ output:
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
-reticulate::use_python("/Users/juangabriel/anaconda3/bin/python")
+reticulate::use_python("/usr/bin/python")
 #reticulate::py_install("sympy")
 ```
 
@@ -190,18 +190,7 @@ ggplot(tabla.totales, aes(x)) +
   xlab("Fecha") + ylab("Frecuencias") +
   scale_color_manual(values=c("red", "blue", "green"))
 ```
-## Gráfico de los infectados, fallecidos y recuperados totales
 
-```{r,echo=FALSE}
-library(ggplot2)
-x=tabla.totales[,1]
-ggplot(tabla.totales, aes(x)) +      
-  geom_line(aes(y=tabla.totales$Recuperados, colour="Recuperados")) + 
-  geom_line(aes(y=tabla.totales$Fallecidos, colour="Fallecidos")) + 
-  geom_line(aes(y=tabla.totales$Infectados, colour="Infectados")) + 
-  xlab("Fecha") + ylab("Frecuencias") +
-  scale_color_manual(values=c("red", "blue", "green"))
-```
 
 ## Cálculo de las frecuencias empíricas $n_i$ para cada país
 En primer lugar, fijamos una fecha para realizar nuestro estudio:

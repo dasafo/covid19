@@ -48,6 +48,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,01,Andalucía,10187,casos
 2020-04-14,01,Andalucía,10192,casos
 2020-04-15,01,Andalucía,10595,casos
+2020-04-16,01,Andalucía,10807,casos
+2020-04-17,01,Andalucía,11053,casos
+2020-04-18,01,Andalucía,11020,casos
+2020-04-19,01,Andalucía,11205,casos
+2020-04-20,01,Andalucía,11323,casos
+2020-04-21,01,Andalucía,11447,casos
 2020-02-27,02,Aragón,0,casos
 2020-02-28,02,Aragón,1,casos
 2020-02-29,02,Aragón,1,casos
@@ -97,6 +103,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,02,Aragón,4187,casos
 2020-04-14,02,Aragón,4245,casos
 2020-04-15,02,Aragón,4338,casos
+2020-04-16,02,Aragón,4566,casos
+2020-04-17,02,Aragón,4664,casos
+2020-04-18,02,Aragón,4761,casos
+2020-04-19,02,Aragón,4831,casos
+2020-04-20,02,Aragón,4886,casos
+2020-04-21,02,Aragón,4938,casos
 2020-02-27,03,Asturias,0,casos
 2020-02-28,03,Asturias,0,casos
 2020-02-29,03,Asturias,0,casos
@@ -146,6 +158,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,03,Asturias,1958,casos
 2020-04-14,03,Asturias,2051,casos
 2020-04-15,03,Asturias,2096,casos
+2020-04-16,03,Asturias,2170,casos
+2020-04-17,03,Asturias,2230,casos
+2020-04-18,03,Asturias,2272,casos
+2020-04-19,03,Asturias,2298,casos
+2020-04-20,03,Asturias,2348,casos
+2020-04-21,03,Asturias,2365,casos
 2020-02-27,04,Baleares,1,casos
 2020-02-28,04,Baleares,1,casos
 2020-02-29,04,Baleares,2,casos
@@ -195,6 +213,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,04,Baleares,1550,casos
 2020-04-14,04,Baleares,1571,casos
 2020-04-15,04,Baleares,1606,casos
+2020-04-16,04,Baleares,1637,casos
+2020-04-17,04,Baleares,1668,casos
+2020-04-18,04,Baleares,1748,casos
+2020-04-19,04,Baleares,1773,casos
+2020-04-20,04,Baleares,1788,casos
+2020-04-21,04,Baleares,1808,casos
 2020-02-27,05,Canarias,6,casos
 2020-02-28,05,Canarias,6,casos
 2020-02-29,05,Canarias,6,casos
@@ -244,6 +268,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,05,Canarias,1944,casos
 2020-04-14,05,Canarias,1958,casos
 2020-04-15,05,Canarias,1975,casos
+2020-04-16,05,Canarias,1988,casos
+2020-04-17,05,Canarias,2009,casos
+2020-04-18,05,Canarias,2035,casos
+2020-04-19,05,Canarias,2047,casos
+2020-04-20,05,Canarias,2067,casos
+2020-04-21,05,Canarias,2085,casos
 2020-02-27,06,Cantabria,0,casos
 2020-02-28,06,Cantabria,0,casos
 2020-02-29,06,Cantabria,0,casos
@@ -293,6 +323,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,06,Cantabria,1777,casos
 2020-04-14,06,Cantabria,1796,casos
 2020-04-15,06,Cantabria,1823,casos
+2020-04-16,06,Cantabria,1845,casos
+2020-04-17,06,Cantabria,1884,casos
+2020-04-18,06,Cantabria,1990,casos
+2020-04-19,06,Cantabria,2050,casos
+2020-04-20,06,Cantabria,2083,casos
+2020-04-21,06,Cantabria,2123,casos
 2020-02-27,08,Castilla-La Mancha,0,casos
 2020-02-28,08,Castilla-La Mancha,0,casos
 2020-02-29,08,Castilla-La Mancha,0,casos
@@ -342,6 +378,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,08,Castilla-La Mancha,14054,casos
 2020-04-14,08,Castilla-La Mancha,14329,casos
 2020-04-15,08,Castilla-La Mancha,14680,casos
+2020-04-16,08,Castilla-La Mancha,15151,casos
+2020-04-17,08,Castilla-La Mancha,15997,casos
+2020-04-18,08,Castilla-La Mancha,16349,casos
+2020-04-19,08,Castilla-La Mancha,16625,casos
+2020-04-20,08,Castilla-La Mancha,16796,casos
+2020-04-21,08,Castilla-La Mancha,17045,casos
 2020-02-27,07,Castilla y León,0,casos
 2020-02-28,07,Castilla y León,2,casos
 2020-02-29,07,Castilla y León,2,casos
@@ -391,6 +433,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,07,Castilla y León,12628,casos
 2020-04-14,07,Castilla y León,13180,casos
 2020-04-15,07,Castilla y León,13697,casos
+2020-04-16,07,Castilla y León,14380,casos
+2020-04-17,07,Castilla y León,14903,casos
+2020-04-18,07,Castilla y León,15293,casos
+2020-04-19,07,Castilla y León,15621,casos
+2020-04-20,07,Castilla y León,15857,casos
+2020-04-21,07,Castilla y León,16259,casos
 2020-02-27,09,Cataluña,2,casos
 2020-02-28,09,Cataluña,3,casos
 2020-02-29,09,Cataluña,5,casos
@@ -440,6 +488,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,09,Cataluña,34726,casos
 2020-04-14,09,Cataluña,35197,casos
 2020-04-15,09,Cataluña,36505,casos
+2020-04-16,09,Cataluña,37354,casos
+2020-04-17,09,Cataluña,38316,casos
+2020-04-18,09,Cataluña,39943,casos
+2020-04-19,09,Cataluña,40600,casos
+2020-04-20,09,Cataluña,41676,casos
+2020-04-21,09,Cataluña,43112,casos
 2020-02-27,18,Ceuta,0,casos
 2020-02-28,18,Ceuta,0,casos
 2020-02-29,18,Ceuta,0,casos
@@ -489,6 +543,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,18,Ceuta,95,casos
 2020-04-14,18,Ceuta,96,casos
 2020-04-15,18,Ceuta,98,casos
+2020-04-16,18,Ceuta,100,casos
+2020-04-17,18,Ceuta,101,casos
+2020-04-18,18,Ceuta,108,casos
+2020-04-19,18,Ceuta,109,casos
+2020-04-20,18,Ceuta,111,casos
+2020-04-21,18,Ceuta,111,casos
 2020-02-27,10,C. Valenciana,2,casos
 2020-02-28,10,C. Valenciana,8,casos
 2020-02-29,10,C. Valenciana,10,casos
@@ -538,6 +598,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,10,C. Valenciana,9060,casos
 2020-04-14,10,C. Valenciana,9213,casos
 2020-04-15,10,C. Valenciana,9424,casos
+2020-04-16,10,C. Valenciana,9615,casos
+2020-04-17,10,C. Valenciana,9869,casos
+2020-04-18,10,C. Valenciana,9795,casos
+2020-04-19,10,C. Valenciana,9937,casos
+2020-04-20,10,C. Valenciana,10018,casos
+2020-04-21,10,C. Valenciana,10084,casos
 2020-02-27,11,Extremadura,0,casos
 2020-02-28,11,Extremadura,0,casos
 2020-02-29,11,Extremadura,0,casos
@@ -587,6 +653,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,11,Extremadura,2658,casos
 2020-04-14,11,Extremadura,2684,casos
 2020-04-15,11,Extremadura,2762,casos
+2020-04-16,11,Extremadura,2881,casos
+2020-04-17,11,Extremadura,3019,casos
+2020-04-18,11,Extremadura,3081,casos
+2020-04-19,11,Extremadura,3136,casos
+2020-04-20,11,Extremadura,3186,casos
+2020-04-21,11,Extremadura,3196,casos
 2020-02-27,12,Galicia,0,casos
 2020-02-28,12,Galicia,0,casos
 2020-02-29,12,Galicia,0,casos
@@ -636,6 +708,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,12,Galicia,7494,casos
 2020-04-14,12,Galicia,7597,casos
 2020-04-15,12,Galicia,7708,casos
+2020-04-16,12,Galicia,7873,casos
+2020-04-17,12,Galicia,8013,casos
+2020-04-18,12,Galicia,8084,casos
+2020-04-19,12,Galicia,8185,casos
+2020-04-20,12,Galicia,8299,casos
+2020-04-21,12,Galicia,8468,casos
 2020-02-27,13,Madrid,4,casos
 2020-02-28,13,Madrid,5,casos
 2020-02-29,13,Madrid,8,casos
@@ -685,6 +763,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,13,Madrid,47146,casos
 2020-04-14,13,Madrid,48048,casos
 2020-04-15,13,Madrid,49526,casos
+2020-04-16,13,Madrid,50694,casos
+2020-04-17,13,Madrid,51993,casos
+2020-04-18,13,Madrid,52946,casos
+2020-04-19,13,Madrid,54884,casos
+2020-04-20,13,Madrid,56963,casos
+2020-04-21,13,Madrid,57997,casos
 2020-02-27,19,Melilla,0,casos
 2020-02-28,19,Melilla,0,casos
 2020-02-29,19,Melilla,0,casos
@@ -734,6 +818,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,19,Melilla,101,casos
 2020-04-14,19,Melilla,101,casos
 2020-04-15,19,Melilla,102,casos
+2020-04-16,19,Melilla,103,casos
+2020-04-17,19,Melilla,104,casos
+2020-04-18,19,Melilla,104,casos
+2020-04-19,19,Melilla,104,casos
+2020-04-20,19,Melilla,104,casos
+2020-04-21,19,Melilla,105,casos
 2020-02-27,14,Murcia,0,casos
 2020-02-28,14,Murcia,0,casos
 2020-02-29,14,Murcia,0,casos
@@ -783,6 +873,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,14,Murcia,1463,casos
 2020-04-14,14,Murcia,1487,casos
 2020-04-15,14,Murcia,1520,casos
+2020-04-16,14,Murcia,1598,casos
+2020-04-17,14,Murcia,1625,casos
+2020-04-18,14,Murcia,1638,casos
+2020-04-19,14,Murcia,1644,casos
+2020-04-20,14,Murcia,1646,casos
+2020-04-21,14,Murcia,1681,casos
 2020-02-27,15,Navarra,0,casos
 2020-02-28,15,Navarra,0,casos
 2020-02-29,15,Navarra,0,casos
@@ -832,6 +928,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,15,Navarra,4092,casos
 2020-04-14,15,Navarra,4150,casos
 2020-04-15,15,Navarra,4246,casos
+2020-04-16,15,Navarra,4348,casos
+2020-04-17,15,Navarra,4433,casos
+2020-04-18,15,Navarra,4556,casos
+2020-04-19,15,Navarra,4621,casos
+2020-04-20,15,Navarra,4697,casos
+2020-04-21,15,Navarra,4781,casos
 2020-02-27,16,País Vasco,0,casos
 2020-02-28,16,País Vasco,0,casos
 2020-02-29,16,País Vasco,2,casos
@@ -881,6 +983,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,16,País Vasco,11018,casos
 2020-04-14,16,País Vasco,11226,casos
 2020-04-15,16,País Vasco,11475,casos
+2020-04-16,16,País Vasco,11790,casos
+2020-04-17,16,País Vasco,12089,casos
+2020-04-18,16,País Vasco,12355,casos
+2020-04-19,16,País Vasco,12569,casos
+2020-04-20,16,País Vasco,12628,casos
+2020-04-21,16,País Vasco,12810,casos
 2020-02-27,17,La Rioja,0,casos
 2020-02-28,17,La Rioja,0,casos
 2020-02-29,17,La Rioja,0,casos
@@ -930,6 +1038,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,17,La Rioja,3358,casos
 2020-04-14,17,La Rioja,3420,casos
 2020-04-15,17,La Rioja,3457,casos
+2020-04-16,17,La Rioja,3916,casos
+2020-04-17,17,La Rioja,4098,casos
+2020-04-18,17,La Rioja,3648,casos
+2020-04-19,17,La Rioja,3705,casos
+2020-04-20,17,La Rioja,3734,casos
+2020-04-21,17,La Rioja,3763,casos
 2020-02-27,00,Total,16,casos
 2020-02-28,00,Total,32,casos
 2020-02-29,00,Total,44,casos
@@ -979,6 +1093,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,00,Total,169496,casos
 2020-04-14,00,Total,172541,casos
 2020-04-15,00,Total,177633,casos
+2020-04-16,00,Total,182816,casos
+2020-04-17,00,Total,188068,casos
+2020-04-18,00,Total,191726,casos
+2020-04-19,00,Total,195944,casos
+2020-04-20,00,Total,200210,casos
+2020-04-21,00,Total,204178,casos
 2020-03-21,01,Andalucía,605,hospitalizados
 2020-03-22,01,Andalucía,724,hospitalizados
 2020-03-23,01,Andalucía,865,hospitalizados
@@ -1005,6 +1125,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,01,Andalucía,4993,hospitalizados
 2020-04-14,01,Andalucía,5054,hospitalizados
 2020-04-15,01,Andalucía,5147,hospitalizados
+2020-04-16,01,Andalucía,5226,hospitalizados
+2020-04-17,01,Andalucía,5298,hospitalizados
+2020-04-18,01,Andalucía,5341,hospitalizados
+2020-04-19,01,Andalucía,5424,hospitalizados
+2020-04-20,01,Andalucía,5473,hospitalizados
+2020-04-21,01,Andalucía,5509,hospitalizados
 2020-03-21,02,Aragón,192,hospitalizados
 2020-03-22,02,Aragón,241,hospitalizados
 2020-03-23,02,Aragón,298,hospitalizados
@@ -1031,6 +1157,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,02,Aragón,1938,hospitalizados
 2020-04-14,02,Aragón,1966,hospitalizados
 2020-04-15,02,Aragón,2006,hospitalizados
+2020-04-16,02,Aragón,2108,hospitalizados
+2020-04-17,02,Aragón,2151,hospitalizados
+2020-04-18,02,Aragón,2180,hospitalizados
+2020-04-19,02,Aragón,2216,hospitalizados
+2020-04-20,02,Aragón,2244,hospitalizados
+2020-04-21,02,Aragón,2271,hospitalizados
 2020-03-21,03,Asturias,133,hospitalizados
 2020-03-22,03,Asturias,171,hospitalizados
 2020-03-23,03,Asturias,194,hospitalizados
@@ -1057,6 +1189,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,03,Asturias,1265,hospitalizados
 2020-04-14,03,Asturias,1330,hospitalizados
 2020-04-15,03,Asturias,1387,hospitalizados
+2020-04-16,03,Asturias,1432,hospitalizados
+2020-04-17,03,Asturias,1474,hospitalizados
+2020-04-18,03,Asturias,1520,hospitalizados
+2020-04-19,03,Asturias,1571,hospitalizados
+2020-04-20,03,Asturias,1599,hospitalizados
+2020-04-21,03,Asturias,1626,hospitalizados
 2020-03-21,04,Baleares,60,hospitalizados
 2020-03-22,04,Baleares,79,hospitalizados
 2020-03-23,04,Baleares,87,hospitalizados
@@ -1083,6 +1221,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,04,Baleares,811,hospitalizados
 2020-04-14,04,Baleares,826,hospitalizados
 2020-04-15,04,Baleares,857,hospitalizados
+2020-04-16,04,Baleares,872,hospitalizados
+2020-04-17,04,Baleares,905,hospitalizados
+2020-04-18,04,Baleares,937,hospitalizados
+2020-04-19,04,Baleares,955,hospitalizados
+2020-04-20,04,Baleares,963,hospitalizados
+2020-04-21,04,Baleares,986,hospitalizados
 2020-03-21,05,Canarias,139,hospitalizados
 2020-03-22,05,Canarias,150,hospitalizados
 2020-03-23,05,Canarias,172,hospitalizados
@@ -1109,6 +1253,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,05,Canarias,763,hospitalizados
 2020-04-14,05,Canarias,771,hospitalizados
 2020-04-15,05,Canarias,781,hospitalizados
+2020-04-16,05,Canarias,802,hospitalizados
+2020-04-17,05,Canarias,811,hospitalizados
+2020-04-18,05,Canarias,822,hospitalizados
+2020-04-19,05,Canarias,825,hospitalizados
+2020-04-20,05,Canarias,826,hospitalizados
+2020-04-21,05,Canarias,837,hospitalizados
 2020-03-21,06,Cantabria,92,hospitalizados
 2020-03-22,06,Cantabria,116,hospitalizados
 2020-03-23,06,Cantabria,157,hospitalizados
@@ -1135,6 +1285,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,06,Cantabria,827,hospitalizados
 2020-04-14,06,Cantabria,853,hospitalizados
 2020-04-15,06,Cantabria,873,hospitalizados
+2020-04-16,06,Cantabria,890,hospitalizados
+2020-04-17,06,Cantabria,903,hospitalizados
+2020-04-18,06,Cantabria,911,hospitalizados
+2020-04-19,06,Cantabria,924,hospitalizados
+2020-04-20,06,Cantabria,934,hospitalizados
+2020-04-21,06,Cantabria,948,hospitalizados
 2020-03-21,08,Castilla-La Mancha,635,hospitalizados
 2020-03-22,08,Castilla-La Mancha,838,hospitalizados
 2020-03-23,08,Castilla-La Mancha,1547,hospitalizados
@@ -1161,6 +1317,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,08,Castilla-La Mancha,7782,hospitalizados
 2020-04-14,08,Castilla-La Mancha,7830,hospitalizados
 2020-04-15,08,Castilla-La Mancha,7896,hospitalizados
+2020-04-16,08,Castilla-La Mancha,7987,hospitalizados
+2020-04-17,08,Castilla-La Mancha,8018,hospitalizados
+2020-04-18,08,Castilla-La Mancha,8093,hospitalizados
+2020-04-19,08,Castilla-La Mancha,8137,hospitalizados
+2020-04-20,08,Castilla-La Mancha,8173,hospitalizados
+2020-04-21,08,Castilla-La Mancha,8199,hospitalizados
 2020-03-21,07,Castilla y León,575,hospitalizados
 2020-03-22,07,Castilla y León,709,hospitalizados
 2020-03-23,07,Castilla y León,860,hospitalizados
@@ -1187,6 +1349,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,07,Castilla y León,6077,hospitalizados
 2020-04-14,07,Castilla y León,6175,hospitalizados
 2020-04-15,07,Castilla y León,6306,hospitalizados
+2020-04-16,07,Castilla y León,6449,hospitalizados
+2020-04-17,07,Castilla y León,6518,hospitalizados
+2020-04-18,07,Castilla y León,6831,hospitalizados
+2020-04-19,07,Castilla y León,6981,hospitalizados
+2020-04-20,07,Castilla y León,7080,hospitalizados
+2020-04-21,07,Castilla y León,7174,hospitalizados
 2020-03-21,09,Cataluña,1681,hospitalizados
 2020-03-22,09,Cataluña,1681,hospitalizados
 2020-03-23,09,Cataluña,1681,hospitalizados
@@ -1213,6 +1381,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,09,Cataluña,22780,hospitalizados
 2020-04-14,09,Cataluña,23126,hospitalizados
 2020-04-15,09,Cataluña,23372,hospitalizados
+2020-04-16,09,Cataluña,23680,hospitalizados
+2020-04-17,09,Cataluña,21242,hospitalizados
+2020-04-18,09,Cataluña,22013,hospitalizados
+2020-04-19,09,Cataluña,22235,hospitalizados
+2020-04-20,09,Cataluña,22375,hospitalizados
+2020-04-21,09,Cataluña,22796,hospitalizados
 2020-03-21,18,Ceuta,0,hospitalizados
 2020-03-22,18,Ceuta,0,hospitalizados
 2020-03-23,18,Ceuta,0,hospitalizados
@@ -1239,6 +1413,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,18,Ceuta,9,hospitalizados
 2020-04-14,18,Ceuta,9,hospitalizados
 2020-04-15,18,Ceuta,9,hospitalizados
+2020-04-16,18,Ceuta,9,hospitalizados
+2020-04-17,18,Ceuta,9,hospitalizados
+2020-04-18,18,Ceuta,9,hospitalizados
+2020-04-19,18,Ceuta,9,hospitalizados
+2020-04-20,18,Ceuta,9,hospitalizados
+2020-04-21,18,Ceuta,9,hospitalizados
 2020-03-21,10,C. Valenciana,476,hospitalizados
 2020-03-22,10,C. Valenciana,590,hospitalizados
 2020-03-23,10,C. Valenciana,702,hospitalizados
@@ -1265,6 +1445,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,10,C. Valenciana,4269,hospitalizados
 2020-04-14,10,C. Valenciana,4397,hospitalizados
 2020-04-15,10,C. Valenciana,4465,hospitalizados
+2020-04-16,10,C. Valenciana,4524,hospitalizados
+2020-04-17,10,C. Valenciana,4605,hospitalizados
+2020-04-18,10,C. Valenciana,4708,hospitalizados
+2020-04-19,10,C. Valenciana,4781,hospitalizados
+2020-04-20,10,C. Valenciana,4827,hospitalizados
+2020-04-21,10,C. Valenciana,4866,hospitalizados
 2020-03-21,11,Extremadura,65,hospitalizados
 2020-03-22,11,Extremadura,87,hospitalizados
 2020-03-23,11,Extremadura,131,hospitalizados
@@ -1291,6 +1477,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,11,Extremadura,1096,hospitalizados
 2020-04-14,11,Extremadura,1114,hospitalizados
 2020-04-15,11,Extremadura,1155,hospitalizados
+2020-04-16,11,Extremadura,1186,hospitalizados
+2020-04-17,11,Extremadura,1212,hospitalizados
+2020-04-18,11,Extremadura,1240,hospitalizados
+2020-04-19,11,Extremadura,1278,hospitalizados
+2020-04-20,11,Extremadura,1306,hospitalizados
+2020-04-21,11,Extremadura,1327,hospitalizados
 2020-03-21,12,Galicia,168,hospitalizados
 2020-03-22,12,Galicia,227,hospitalizados
 2020-03-23,12,Galicia,270,hospitalizados
@@ -1317,6 +1509,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,12,Galicia,2344,hospitalizados
 2020-04-14,12,Galicia,2403,hospitalizados
 2020-04-15,12,Galicia,2471,hospitalizados
+2020-04-16,12,Galicia,2494,hospitalizados
+2020-04-17,12,Galicia,2535,hospitalizados
+2020-04-18,12,Galicia,2554,hospitalizados
+2020-04-19,12,Galicia,2590,hospitalizados
+2020-04-20,12,Galicia,2609,hospitalizados
+2020-04-21,12,Galicia,2652,hospitalizados
 2020-03-21,13,Madrid,7388,hospitalizados
 2020-03-22,13,Madrid,8441,hospitalizados
 2020-03-23,13,Madrid,9561,hospitalizados
@@ -1343,6 +1541,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,13,Madrid,11233,hospitalizados
 2020-04-14,13,Madrid,10753,hospitalizados
 2020-04-15,13,Madrid,10116,hospitalizados
+2020-04-16,13,Madrid,9653,hospitalizados
+2020-04-17,13,Madrid,9141,hospitalizados
+2020-04-18,13,Madrid,8597,hospitalizados
+2020-04-19,13,Madrid,8291,hospitalizados
+2020-04-20,13,Madrid,8191,hospitalizados
+2020-04-21,13,Madrid,7930,hospitalizados
 2020-03-21,19,Melilla,8,hospitalizados
 2020-03-22,19,Melilla,12,hospitalizados
 2020-03-23,19,Melilla,12,hospitalizados
@@ -1369,6 +1573,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,19,Melilla,43,hospitalizados
 2020-04-14,19,Melilla,43,hospitalizados
 2020-04-15,19,Melilla,43,hospitalizados
+2020-04-16,19,Melilla,43,hospitalizados
+2020-04-17,19,Melilla,44,hospitalizados
+2020-04-18,19,Melilla,44,hospitalizados
+2020-04-19,19,Melilla,44,hospitalizados
+2020-04-20,19,Melilla,44,hospitalizados
+2020-04-21,19,Melilla,44,hospitalizados
 2020-03-21,14,Murcia,61,hospitalizados
 2020-03-22,14,Murcia,78,hospitalizados
 2020-03-23,14,Murcia,80,hospitalizados
@@ -1395,6 +1605,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,14,Murcia,543,hospitalizados
 2020-04-14,14,Murcia,566,hospitalizados
 2020-04-15,14,Murcia,574,hospitalizados
+2020-04-16,14,Murcia,575,hospitalizados
+2020-04-17,14,Murcia,585,hospitalizados
+2020-04-18,14,Murcia,611,hospitalizados
+2020-04-19,14,Murcia,612,hospitalizados
+2020-04-20,14,Murcia,612,hospitalizados
+2020-04-21,14,Murcia,614,hospitalizados
 2020-03-21,15,Navarra,222,hospitalizados
 2020-03-22,15,Navarra,288,hospitalizados
 2020-03-23,15,Navarra,339,hospitalizados
@@ -1421,6 +1637,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,15,Navarra,1693,hospitalizados
 2020-04-14,15,Navarra,1705,hospitalizados
 2020-04-15,15,Navarra,1731,hospitalizados
+2020-04-16,15,Navarra,1752,hospitalizados
+2020-04-17,15,Navarra,1781,hospitalizados
+2020-04-18,15,Navarra,1829,hospitalizados
+2020-04-19,15,Navarra,1843,hospitalizados
+2020-04-20,15,Navarra,1856,hospitalizados
+2020-04-21,15,Navarra,1877,hospitalizados
 2020-03-21,16,País Vasco,654,hospitalizados
 2020-03-22,16,País Vasco,988,hospitalizados
 2020-03-23,16,País Vasco,1252,hospitalizados
@@ -1447,6 +1669,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,16,País Vasco,5622,hospitalizados
 2020-04-14,16,País Vasco,5679,hospitalizados
 2020-04-15,16,País Vasco,5750,hospitalizados
+2020-04-16,16,País Vasco,5863,hospitalizados
+2020-04-17,16,País Vasco,5939,hospitalizados
+2020-04-18,16,País Vasco,6030,hospitalizados
+2020-04-19,16,País Vasco,6086,hospitalizados
+2020-04-20,16,País Vasco,6109,hospitalizados
+2020-04-21,16,País Vasco,6141,hospitalizados
 2020-03-21,17,La Rioja,128,hospitalizados
 2020-03-22,17,La Rioja,134,hospitalizados
 2020-03-23,17,La Rioja,166,hospitalizados
@@ -1473,6 +1701,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,17,La Rioja,1141,hospitalizados
 2020-04-14,17,La Rioja,1152,hospitalizados
 2020-04-15,17,La Rioja,1182,hospitalizados
+2020-04-16,17,La Rioja,1207,hospitalizados
+2020-04-17,17,La Rioja,1226,hospitalizados
+2020-04-18,17,La Rioja,1249,hospitalizados
+2020-04-19,17,La Rioja,1268,hospitalizados
+2020-04-20,17,La Rioja,1282,hospitalizados
+2020-04-21,17,La Rioja,1297,hospitalizados
 2020-03-21,00,Total,13282,hospitalizados
 2020-03-22,00,Total,15554,hospitalizados
 2020-03-23,00,Total,18374,hospitalizados
@@ -1499,6 +1733,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,00,Total,NA,hospitalizados
 2020-04-14,00,Total,NA,hospitalizados
 2020-04-15,00,Total,NA,hospitalizados
+2020-04-16,00,Total,NA,hospitalizados
+2020-04-17,00,Total,NA,hospitalizados
+2020-04-18,00,Total,NA,hospitalizados
+2020-04-19,00,Total,NA,hospitalizados
+2020-04-20,00,Total,NA,hospitalizados
+2020-04-21,00,Total,NA,hospitalizados
 2020-03-03,01,Andalucía,0,fallecidos
 2020-03-04,01,Andalucía,0,fallecidos
 2020-03-05,01,Andalucía,0,fallecidos
@@ -1543,6 +1783,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,01,Andalucía,815,fallecidos
 2020-04-14,01,Andalucía,836,fallecidos
 2020-04-15,01,Andalucía,865,fallecidos
+2020-04-16,01,Andalucía,912,fallecidos
+2020-04-17,01,Andalucía,940,fallecidos
+2020-04-18,01,Andalucía,967,fallecidos
+2020-04-19,01,Andalucía,993,fallecidos
+2020-04-20,01,Andalucía,1013,fallecidos
+2020-04-21,01,Andalucía,1017,fallecidos
 2020-03-03,02,Aragón,0,fallecidos
 2020-03-04,02,Aragón,0,fallecidos
 2020-03-05,02,Aragón,0,fallecidos
@@ -1587,6 +1833,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,02,Aragón,464,fallecidos
 2020-04-14,02,Aragón,492,fallecidos
 2020-04-15,02,Aragón,514,fallecidos
+2020-04-16,02,Aragón,543,fallecidos
+2020-04-17,02,Aragón,562,fallecidos
+2020-04-18,02,Aragón,601,fallecidos
+2020-04-19,02,Aragón,619,fallecidos
+2020-04-20,02,Aragón,637,fallecidos
+2020-04-21,02,Aragón,643,fallecidos
 2020-03-03,03,Asturias,0,fallecidos
 2020-03-04,03,Asturias,0,fallecidos
 2020-03-05,03,Asturias,0,fallecidos
@@ -1631,6 +1883,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,03,Asturias,149,fallecidos
 2020-04-14,03,Asturias,156,fallecidos
 2020-04-15,03,Asturias,166,fallecidos
+2020-04-16,03,Asturias,168,fallecidos
+2020-04-17,03,Asturias,174,fallecidos
+2020-04-18,03,Asturias,187,fallecidos
+2020-04-19,03,Asturias,196,fallecidos
+2020-04-20,03,Asturias,200,fallecidos
+2020-04-21,03,Asturias,202,fallecidos
 2020-03-03,04,Baleares,0,fallecidos
 2020-03-04,04,Baleares,0,fallecidos
 2020-03-05,04,Baleares,0,fallecidos
@@ -1675,6 +1933,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,04,Baleares,117,fallecidos
 2020-04-14,04,Baleares,118,fallecidos
 2020-04-15,04,Baleares,125,fallecidos
+2020-04-16,04,Baleares,131,fallecidos
+2020-04-17,04,Baleares,134,fallecidos
+2020-04-18,04,Baleares,148,fallecidos
+2020-04-19,04,Baleares,155,fallecidos
+2020-04-20,04,Baleares,157,fallecidos
+2020-04-21,04,Baleares,161,fallecidos
 2020-03-03,05,Canarias,0,fallecidos
 2020-03-04,05,Canarias,0,fallecidos
 2020-03-05,05,Canarias,0,fallecidos
@@ -1719,6 +1983,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,05,Canarias,96,fallecidos
 2020-04-14,05,Canarias,102,fallecidos
 2020-04-15,05,Canarias,104,fallecidos
+2020-04-16,05,Canarias,107,fallecidos
+2020-04-17,05,Canarias,111,fallecidos
+2020-04-18,05,Canarias,115,fallecidos
+2020-04-19,05,Canarias,119,fallecidos
+2020-04-20,05,Canarias,119,fallecidos
+2020-04-21,05,Canarias,120,fallecidos
 2020-03-03,06,Cantabria,0,fallecidos
 2020-03-04,06,Cantabria,0,fallecidos
 2020-03-05,06,Cantabria,0,fallecidos
@@ -1763,6 +2033,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,06,Cantabria,117,fallecidos
 2020-04-14,06,Cantabria,120,fallecidos
 2020-04-15,06,Cantabria,132,fallecidos
+2020-04-16,06,Cantabria,137,fallecidos
+2020-04-17,06,Cantabria,144,fallecidos
+2020-04-18,06,Cantabria,149,fallecidos
+2020-04-19,06,Cantabria,153,fallecidos
+2020-04-20,06,Cantabria,158,fallecidos
+2020-04-21,06,Cantabria,165,fallecidos
 2020-03-03,08,Castilla-La Mancha,0,fallecidos
 2020-03-04,08,Castilla-La Mancha,0,fallecidos
 2020-03-05,08,Castilla-La Mancha,0,fallecidos
@@ -1807,6 +2083,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,08,Castilla-La Mancha,1626,fallecidos
 2020-04-14,08,Castilla-La Mancha,1714,fallecidos
 2020-04-15,08,Castilla-La Mancha,1755,fallecidos
+2020-04-16,08,Castilla-La Mancha,1796,fallecidos
+2020-04-17,08,Castilla-La Mancha,1852,fallecidos
+2020-04-18,08,Castilla-La Mancha,1913,fallecidos
+2020-04-19,08,Castilla-La Mancha,1963,fallecidos
+2020-04-20,08,Castilla-La Mancha,2021,fallecidos
+2020-04-21,08,Castilla-La Mancha,2075,fallecidos
 2020-03-03,07,Castilla y León,0,fallecidos
 2020-03-04,07,Castilla y León,0,fallecidos
 2020-03-05,07,Castilla y León,0,fallecidos
@@ -1851,6 +2133,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,07,Castilla y León,1263,fallecidos
 2020-04-14,07,Castilla y León,1299,fallecidos
 2020-04-15,07,Castilla y León,1337,fallecidos
+2020-04-16,07,Castilla y León,1372,fallecidos
+2020-04-17,07,Castilla y León,1401,fallecidos
+2020-04-18,07,Castilla y León,1429,fallecidos
+2020-04-19,07,Castilla y León,1458,fallecidos
+2020-04-20,07,Castilla y León,1493,fallecidos
+2020-04-21,07,Castilla y León,1521,fallecidos
 2020-03-03,09,Cataluña,0,fallecidos
 2020-03-04,09,Cataluña,0,fallecidos
 2020-03-05,09,Cataluña,0,fallecidos
@@ -1895,6 +2183,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,09,Cataluña,3538,fallecidos
 2020-04-14,09,Cataluña,3666,fallecidos
 2020-04-15,09,Cataluña,3756,fallecidos
+2020-04-16,09,Cataluña,3855,fallecidos
+2020-04-17,09,Cataluña,3752,fallecidos
+2020-04-18,09,Cataluña,3879,fallecidos
+2020-04-19,09,Cataluña,3933,fallecidos
+2020-04-20,09,Cataluña,4009,fallecidos
+2020-04-21,09,Cataluña,4152,fallecidos
 2020-03-03,18,Ceuta,0,fallecidos
 2020-03-04,18,Ceuta,0,fallecidos
 2020-03-05,18,Ceuta,0,fallecidos
@@ -1939,6 +2233,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,18,Ceuta,4,fallecidos
 2020-04-14,18,Ceuta,4,fallecidos
 2020-04-15,18,Ceuta,4,fallecidos
+2020-04-16,18,Ceuta,4,fallecidos
+2020-04-17,18,Ceuta,4,fallecidos
+2020-04-18,18,Ceuta,4,fallecidos
+2020-04-19,18,Ceuta,4,fallecidos
+2020-04-20,18,Ceuta,4,fallecidos
+2020-04-21,18,Ceuta,4,fallecidos
 2020-03-03,10,C. Valenciana,0,fallecidos
 2020-03-04,10,C. Valenciana,1,fallecidos
 2020-03-05,10,C. Valenciana,1,fallecidos
@@ -1983,6 +2283,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,10,C. Valenciana,876,fallecidos
 2020-04-14,10,C. Valenciana,907,fallecidos
 2020-04-15,10,C. Valenciana,945,fallecidos
+2020-04-16,10,C. Valenciana,972,fallecidos
+2020-04-17,10,C. Valenciana,999,fallecidos
+2020-04-18,10,C. Valenciana,1042,fallecidos
+2020-04-19,10,C. Valenciana,1065,fallecidos
+2020-04-20,10,C. Valenciana,1079,fallecidos
+2020-04-21,10,C. Valenciana,1089,fallecidos
 2020-03-03,11,Extremadura,0,fallecidos
 2020-03-04,11,Extremadura,0,fallecidos
 2020-03-05,11,Extremadura,0,fallecidos
@@ -2027,6 +2333,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,11,Extremadura,321,fallecidos
 2020-04-14,11,Extremadura,334,fallecidos
 2020-04-15,11,Extremadura,342,fallecidos
+2020-04-16,11,Extremadura,359,fallecidos
+2020-04-17,11,Extremadura,372,fallecidos
+2020-04-18,11,Extremadura,380,fallecidos
+2020-04-19,11,Extremadura,384,fallecidos
+2020-04-20,11,Extremadura,389,fallecidos
+2020-04-21,11,Extremadura,397,fallecidos
 2020-03-03,12,Galicia,0,fallecidos
 2020-03-04,12,Galicia,0,fallecidos
 2020-03-05,12,Galicia,0,fallecidos
@@ -2071,6 +2383,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,12,Galicia,284,fallecidos
 2020-04-14,12,Galicia,290,fallecidos
 2020-04-15,12,Galicia,299,fallecidos
+2020-04-16,12,Galicia,310,fallecidos
+2020-04-17,12,Galicia,320,fallecidos
+2020-04-18,12,Galicia,334,fallecidos
+2020-04-19,12,Galicia,346,fallecidos
+2020-04-20,12,Galicia,352,fallecidos
+2020-04-21,12,Galicia,360,fallecidos
 2020-03-03,13,Madrid,0,fallecidos
 2020-03-04,13,Madrid,0,fallecidos
 2020-03-05,13,Madrid,1,fallecidos
@@ -2115,6 +2433,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,13,Madrid,6423,fallecidos
 2020-04-14,13,Madrid,6568,fallecidos
 2020-04-15,13,Madrid,6724,fallecidos
+2020-04-16,13,Madrid,6877,fallecidos
+2020-04-17,13,Madrid,7007,fallecidos
+2020-04-18,13,Madrid,7132,fallecidos
+2020-04-19,13,Madrid,7239,fallecidos
+2020-04-20,13,Madrid,7351,fallecidos
+2020-04-21,13,Madrid,7460,fallecidos
 2020-03-03,19,Melilla,0,fallecidos
 2020-03-04,19,Melilla,0,fallecidos
 2020-03-05,19,Melilla,0,fallecidos
@@ -2159,6 +2483,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,19,Melilla,2,fallecidos
 2020-04-14,19,Melilla,2,fallecidos
 2020-04-15,19,Melilla,2,fallecidos
+2020-04-16,19,Melilla,2,fallecidos
+2020-04-17,19,Melilla,2,fallecidos
+2020-04-18,19,Melilla,2,fallecidos
+2020-04-19,19,Melilla,2,fallecidos
+2020-04-20,19,Melilla,2,fallecidos
+2020-04-21,19,Melilla,2,fallecidos
 2020-03-03,14,Murcia,0,fallecidos
 2020-03-04,14,Murcia,0,fallecidos
 2020-03-05,14,Murcia,0,fallecidos
@@ -2203,6 +2533,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,14,Murcia,101,fallecidos
 2020-04-14,14,Murcia,106,fallecidos
 2020-04-15,14,Murcia,109,fallecidos
+2020-04-16,14,Murcia,111,fallecidos
+2020-04-17,14,Murcia,112,fallecidos
+2020-04-18,14,Murcia,115,fallecidos
+2020-04-19,14,Murcia,116,fallecidos
+2020-04-20,14,Murcia,117,fallecidos
+2020-04-21,14,Murcia,120,fallecidos
 2020-03-03,15,Navarra,0,fallecidos
 2020-03-04,15,Navarra,0,fallecidos
 2020-03-05,15,Navarra,0,fallecidos
@@ -2247,6 +2583,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,15,Navarra,239,fallecidos
 2020-04-14,15,Navarra,249,fallecidos
 2020-04-15,15,Navarra,252,fallecidos
+2020-04-16,15,Navarra,261,fallecidos
+2020-04-17,15,Navarra,338,fallecidos
+2020-04-18,15,Navarra,354,fallecidos
+2020-04-19,15,Navarra,369,fallecidos
+2020-04-20,15,Navarra,385,fallecidos
+2020-04-21,15,Navarra,397,fallecidos
 2020-03-03,16,País Vasco,0,fallecidos
 2020-03-04,16,País Vasco,0,fallecidos
 2020-03-05,16,País Vasco,1,fallecidos
@@ -2291,6 +2633,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,16,País Vasco,831,fallecidos
 2020-04-14,16,País Vasco,859,fallecidos
 2020-04-15,16,País Vasco,902,fallecidos
+2020-04-16,16,País Vasco,956,fallecidos
+2020-04-17,16,País Vasco,992,fallecidos
+2020-04-18,16,País Vasco,1020,fallecidos
+2020-04-19,16,País Vasco,1062,fallecidos
+2020-04-20,16,País Vasco,1081,fallecidos
+2020-04-21,16,País Vasco,1103,fallecidos
 2020-03-03,17,La Rioja,0,fallecidos
 2020-03-04,17,La Rioja,0,fallecidos
 2020-03-05,17,La Rioja,0,fallecidos
@@ -2335,6 +2683,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,17,La Rioja,223,fallecidos
 2020-04-14,17,La Rioja,234,fallecidos
 2020-04-15,17,La Rioja,246,fallecidos
+2020-04-16,17,La Rioja,257,fallecidos
+2020-04-17,17,La Rioja,262,fallecidos
+2020-04-18,17,La Rioja,272,fallecidos
+2020-04-19,17,La Rioja,277,fallecidos
+2020-04-20,17,La Rioja,285,fallecidos
+2020-04-21,17,La Rioja,294,fallecidos
 2020-03-03,00,Total,0,fallecidos
 2020-03-04,00,Total,1,fallecidos
 2020-03-05,00,Total,3,fallecidos
@@ -2379,6 +2733,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,00,Total,17489,fallecidos
 2020-04-14,00,Total,18056,fallecidos
 2020-04-15,00,Total,18579,fallecidos
+2020-04-16,00,Total,19130,fallecidos
+2020-04-17,00,Total,19478,fallecidos
+2020-04-18,00,Total,20043,fallecidos
+2020-04-19,00,Total,20453,fallecidos
+2020-04-20,00,Total,20852,fallecidos
+2020-04-21,00,Total,21282,fallecidos
 2020-03-04,01,Andalucía,1,uci
 2020-03-05,01,Andalucía,1,uci
 2020-03-06,01,Andalucía,1,uci
@@ -2418,6 +2778,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,01,Andalucía,621,uci
 2020-04-14,01,Andalucía,631,uci
 2020-04-15,01,Andalucía,665,uci
+2020-04-16,01,Andalucía,671,uci
+2020-04-17,01,Andalucía,675,uci
+2020-04-18,01,Andalucía,677,uci
+2020-04-19,01,Andalucía,687,uci
+2020-04-20,01,Andalucía,690,uci
+2020-04-21,01,Andalucía,692,uci
 2020-03-04,02,Aragón,0,uci
 2020-03-05,02,Aragón,1,uci
 2020-03-06,02,Aragón,1,uci
@@ -2457,6 +2823,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,02,Aragón,274,uci
 2020-04-14,02,Aragón,280,uci
 2020-04-15,02,Aragón,282,uci
+2020-04-16,02,Aragón,291,uci
+2020-04-17,02,Aragón,240,uci
+2020-04-18,02,Aragón,243,uci
+2020-04-19,02,Aragón,246,uci
+2020-04-20,02,Aragón,248,uci
+2020-04-21,02,Aragón,250,uci
 2020-03-04,03,Asturias,1,uci
 2020-03-05,03,Asturias,2,uci
 2020-03-06,03,Asturias,2,uci
@@ -2496,6 +2868,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,03,Asturias,110,uci
 2020-04-14,03,Asturias,111,uci
 2020-04-15,03,Asturias,114,uci
+2020-04-16,03,Asturias,116,uci
+2020-04-17,03,Asturias,118,uci
+2020-04-18,03,Asturias,119,uci
+2020-04-19,03,Asturias,120,uci
+2020-04-20,03,Asturias,122,uci
+2020-04-21,03,Asturias,122,uci
 2020-03-04,04,Baleares,0,uci
 2020-03-05,04,Baleares,0,uci
 2020-03-06,04,Baleares,0,uci
@@ -2535,6 +2913,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,04,Baleares,143,uci
 2020-04-14,04,Baleares,145,uci
 2020-04-15,04,Baleares,149,uci
+2020-04-16,04,Baleares,152,uci
+2020-04-17,04,Baleares,152,uci
+2020-04-18,04,Baleares,157,uci
+2020-04-19,04,Baleares,160,uci
+2020-04-20,04,Baleares,161,uci
+2020-04-21,04,Baleares,161,uci
 2020-03-04,05,Canarias,0,uci
 2020-03-05,05,Canarias,0,uci
 2020-03-06,05,Canarias,0,uci
@@ -2574,6 +2958,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,05,Canarias,145,uci
 2020-04-14,05,Canarias,147,uci
 2020-04-15,05,Canarias,152,uci
+2020-04-16,05,Canarias,156,uci
+2020-04-17,05,Canarias,159,uci
+2020-04-18,05,Canarias,160,uci
+2020-04-19,05,Canarias,162,uci
+2020-04-20,05,Canarias,163,uci
+2020-04-21,05,Canarias,164,uci
 2020-03-04,06,Cantabria,0,uci
 2020-03-05,06,Cantabria,0,uci
 2020-03-06,06,Cantabria,0,uci
@@ -2613,6 +3003,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,06,Cantabria,75,uci
 2020-04-14,06,Cantabria,76,uci
 2020-04-15,06,Cantabria,76,uci
+2020-04-16,06,Cantabria,77,uci
+2020-04-17,06,Cantabria,78,uci
+2020-04-18,06,Cantabria,78,uci
+2020-04-19,06,Cantabria,78,uci
+2020-04-20,06,Cantabria,78,uci
+2020-04-21,06,Cantabria,78,uci
 2020-03-04,08,Castilla-La Mancha,1,uci
 2020-03-05,08,Castilla-La Mancha,1,uci
 2020-03-06,08,Castilla-La Mancha,1,uci
@@ -2652,6 +3048,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,08,Castilla-La Mancha,475,uci
 2020-04-14,08,Castilla-La Mancha,486,uci
 2020-04-15,08,Castilla-La Mancha,495,uci
+2020-04-16,08,Castilla-La Mancha,503,uci
+2020-04-17,08,Castilla-La Mancha,511,uci
+2020-04-18,08,Castilla-La Mancha,514,uci
+2020-04-19,08,Castilla-La Mancha,518,uci
+2020-04-20,08,Castilla-La Mancha,531,uci
+2020-04-21,08,Castilla-La Mancha,534,uci
 2020-03-04,07,Castilla y León,1,uci
 2020-03-05,07,Castilla y León,1,uci
 2020-03-06,07,Castilla y León,1,uci
@@ -2691,6 +3093,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,07,Castilla y León,312,uci
 2020-04-14,07,Castilla y León,308,uci
 2020-04-15,07,Castilla y León,306,uci
+2020-04-16,07,Castilla y León,307,uci
+2020-04-17,07,Castilla y León,297,uci
+2020-04-18,07,Castilla y León,495,uci
+2020-04-19,07,Castilla y León,498,uci
+2020-04-20,07,Castilla y León,501,uci
+2020-04-21,07,Castilla y León,503,uci
 2020-03-04,09,Cataluña,0,uci
 2020-03-05,09,Cataluña,0,uci
 2020-03-06,09,Cataluña,0,uci
@@ -2730,6 +3138,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,09,Cataluña,2713,uci
 2020-04-14,09,Cataluña,2775,uci
 2020-04-15,09,Cataluña,2789,uci
+2020-04-16,09,Cataluña,2798,uci
+2020-04-17,09,Cataluña,2305,uci
+2020-04-18,09,Cataluña,2349,uci
+2020-04-19,09,Cataluña,2395,uci
+2020-04-20,09,Cataluña,2409,uci
+2020-04-21,09,Cataluña,2437,uci
 2020-03-04,18,Ceuta,0,uci
 2020-03-05,18,Ceuta,0,uci
 2020-03-06,18,Ceuta,0,uci
@@ -2769,6 +3183,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,18,Ceuta,4,uci
 2020-04-14,18,Ceuta,4,uci
 2020-04-15,18,Ceuta,4,uci
+2020-04-16,18,Ceuta,4,uci
+2020-04-17,18,Ceuta,4,uci
+2020-04-18,18,Ceuta,4,uci
+2020-04-19,18,Ceuta,4,uci
+2020-04-20,18,Ceuta,4,uci
+2020-04-21,18,Ceuta,4,uci
 2020-03-04,10,C. Valenciana,0,uci
 2020-03-05,10,C. Valenciana,0,uci
 2020-03-06,10,C. Valenciana,1,uci
@@ -2808,6 +3228,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,10,C. Valenciana,576,uci
 2020-04-14,10,C. Valenciana,581,uci
 2020-04-15,10,C. Valenciana,588,uci
+2020-04-16,10,C. Valenciana,625,uci
+2020-04-17,10,C. Valenciana,632,uci
+2020-04-18,10,C. Valenciana,636,uci
+2020-04-19,10,C. Valenciana,643,uci
+2020-04-20,10,C. Valenciana,646,uci
+2020-04-21,10,C. Valenciana,648,uci
 2020-03-04,11,Extremadura,0,uci
 2020-03-05,11,Extremadura,0,uci
 2020-03-06,11,Extremadura,0,uci
@@ -2847,6 +3273,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,11,Extremadura,108,uci
 2020-04-14,11,Extremadura,108,uci
 2020-04-15,11,Extremadura,109,uci
+2020-04-16,11,Extremadura,110,uci
+2020-04-17,11,Extremadura,110,uci
+2020-04-18,11,Extremadura,112,uci
+2020-04-19,11,Extremadura,112,uci
+2020-04-20,11,Extremadura,112,uci
+2020-04-21,11,Extremadura,112,uci
 2020-03-04,12,Galicia,0,uci
 2020-03-05,12,Galicia,0,uci
 2020-03-06,12,Galicia,0,uci
@@ -2886,6 +3318,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,12,Galicia,136,uci
 2020-04-14,12,Galicia,133,uci
 2020-04-15,12,Galicia,128,uci
+2020-04-16,12,Galicia,123,uci
+2020-04-17,12,Galicia,117,uci
+2020-04-18,12,Galicia,115,uci
+2020-04-19,12,Galicia,112,uci
+2020-04-20,12,Galicia,108,uci
+2020-04-21,12,Galicia,101,uci
 2020-03-04,13,Madrid,2,uci
 2020-03-05,13,Madrid,2,uci
 2020-03-06,13,Madrid,2,uci
@@ -2925,6 +3363,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,13,Madrid,1327,uci
 2020-04-14,13,Madrid,1299,uci
 2020-04-15,13,Madrid,1244,uci
+2020-04-16,13,Madrid,1206,uci
+2020-04-17,13,Madrid,1154,uci
+2020-04-18,13,Madrid,1094,uci
+2020-04-19,13,Madrid,1123,uci
+2020-04-20,13,Madrid,1111,uci
+2020-04-21,13,Madrid,1076,uci
 2020-03-04,19,Melilla,0,uci
 2020-03-05,19,Melilla,0,uci
 2020-03-06,19,Melilla,0,uci
@@ -2964,6 +3408,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,19,Melilla,3,uci
 2020-04-14,19,Melilla,3,uci
 2020-04-15,19,Melilla,3,uci
+2020-04-16,19,Melilla,3,uci
+2020-04-17,19,Melilla,3,uci
+2020-04-18,19,Melilla,3,uci
+2020-04-19,19,Melilla,3,uci
+2020-04-20,19,Melilla,3,uci
+2020-04-21,19,Melilla,3,uci
 2020-03-04,14,Murcia,0,uci
 2020-03-05,14,Murcia,0,uci
 2020-03-06,14,Murcia,0,uci
@@ -3003,6 +3453,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,14,Murcia,94,uci
 2020-04-14,14,Murcia,96,uci
 2020-04-15,14,Murcia,97,uci
+2020-04-16,14,Murcia,97,uci
+2020-04-17,14,Murcia,99,uci
+2020-04-18,14,Murcia,102,uci
+2020-04-19,14,Murcia,102,uci
+2020-04-20,14,Murcia,103,uci
+2020-04-21,14,Murcia,104,uci
 2020-03-04,15,Navarra,1,uci
 2020-03-05,15,Navarra,1,uci
 2020-03-06,15,Navarra,1,uci
@@ -3042,6 +3498,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,15,Navarra,124,uci
 2020-04-14,15,Navarra,124,uci
 2020-04-15,15,Navarra,124,uci
+2020-04-16,15,Navarra,124,uci
+2020-04-17,15,Navarra,124,uci
+2020-04-18,15,Navarra,127,uci
+2020-04-19,15,Navarra,127,uci
+2020-04-20,15,Navarra,128,uci
+2020-04-21,15,Navarra,128,uci
 2020-03-04,16,País Vasco,0,uci
 2020-03-05,16,País Vasco,0,uci
 2020-03-06,16,País Vasco,1,uci
@@ -3081,6 +3543,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,16,País Vasco,464,uci
 2020-04-14,16,País Vasco,470,uci
 2020-04-15,16,País Vasco,471,uci
+2020-04-16,16,País Vasco,478,uci
+2020-04-17,16,País Vasco,484,uci
+2020-04-18,16,País Vasco,490,uci
+2020-04-19,16,País Vasco,499,uci
+2020-04-20,16,País Vasco,501,uci
+2020-04-21,16,País Vasco,507,uci
 2020-03-04,17,La Rioja,0,uci
 2020-03-05,17,La Rioja,0,uci
 2020-03-06,17,La Rioja,0,uci
@@ -3120,6 +3588,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,17,La Rioja,73,uci
 2020-04-14,17,La Rioja,74,uci
 2020-04-15,17,La Rioja,75,uci
+2020-04-16,17,La Rioja,75,uci
+2020-04-17,17,La Rioja,76,uci
+2020-04-18,17,La Rioja,78,uci
+2020-04-19,17,La Rioja,79,uci
+2020-04-20,17,La Rioja,79,uci
+2020-04-21,17,La Rioja,81,uci
 2020-03-04,00,Total,7,uci
 2020-03-05,00,Total,9,uci
 2020-03-06,00,Total,11,uci
@@ -3159,6 +3633,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,00,Total,NA,uci
 2020-04-14,00,Total,NA,uci
 2020-04-15,00,Total,NA,uci
+2020-04-16,00,Total,NA,uci
+2020-04-17,00,Total,NA,uci
+2020-04-18,00,Total,NA,uci
+2020-04-19,00,Total,NA,uci
+2020-04-20,00,Total,NA,uci
+2020-04-21,00,Total,NA,uci
 2020-03-16,01,Andalucía,0,altas
 2020-03-17,01,Andalucía,0,altas
 2020-03-18,01,Andalucía,38,altas
@@ -3190,6 +3670,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,01,Andalucía,1967,altas
 2020-04-14,01,Andalucía,2032,altas
 2020-04-15,01,Andalucía,2224,altas
+2020-04-16,01,Andalucía,2634,altas
+2020-04-17,01,Andalucía,2790,altas
+2020-04-18,01,Andalucía,2948,altas
+2020-04-19,01,Andalucía,3116,altas
+2020-04-20,01,Andalucía,3229,altas
+2020-04-21,01,Andalucía,3411,altas
 2020-03-16,02,Aragón,0,altas
 2020-03-17,02,Aragón,0,altas
 2020-03-18,02,Aragón,0,altas
@@ -3221,6 +3707,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,02,Aragón,946,altas
 2020-04-14,02,Aragón,963,altas
 2020-04-15,02,Aragón,1012,altas
+2020-04-16,02,Aragón,1087,altas
+2020-04-17,02,Aragón,1132,altas
+2020-04-18,02,Aragón,1121,altas
+2020-04-19,02,Aragón,1175,altas
+2020-04-20,02,Aragón,1178,altas
+2020-04-21,02,Aragón,1182,altas
 2020-03-16,03,Asturias,3,altas
 2020-03-17,03,Asturias,3,altas
 2020-03-18,03,Asturias,4,altas
@@ -3252,6 +3744,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,03,Asturias,434,altas
 2020-04-14,03,Asturias,458,altas
 2020-04-15,03,Asturias,487,altas
+2020-04-16,03,Asturias,522,altas
+2020-04-17,03,Asturias,545,altas
+2020-04-18,03,Asturias,575,altas
+2020-04-19,03,Asturias,596,altas
+2020-04-20,03,Asturias,599,altas
+2020-04-21,03,Asturias,616,altas
 2020-03-16,04,Baleares,1,altas
 2020-03-17,04,Baleares,1,altas
 2020-03-18,04,Baleares,4,altas
@@ -3283,6 +3781,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,04,Baleares,862,altas
 2020-04-14,04,Baleares,871,altas
 2020-04-15,04,Baleares,881,altas
+2020-04-16,04,Baleares,918,altas
+2020-04-17,04,Baleares,938,altas
+2020-04-18,04,Baleares,958,altas
+2020-04-19,04,Baleares,993,altas
+2020-04-20,04,Baleares,1005,altas
+2020-04-21,04,Baleares,1005,altas
 2020-03-16,05,Canarias,7,altas
 2020-03-17,05,Canarias,8,altas
 2020-03-18,05,Canarias,8,altas
@@ -3314,6 +3818,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,05,Canarias,458,altas
 2020-04-14,05,Canarias,589,altas
 2020-04-15,05,Canarias,622,altas
+2020-04-16,05,Canarias,673,altas
+2020-04-17,05,Canarias,730,altas
+2020-04-18,05,Canarias,785,altas
+2020-04-19,05,Canarias,789,altas
+2020-04-20,05,Canarias,813,altas
+2020-04-21,05,Canarias,878,altas
 2020-03-16,06,Cantabria,10,altas
 2020-03-17,06,Cantabria,10,altas
 2020-03-18,06,Cantabria,10,altas
@@ -3345,6 +3855,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,06,Cantabria,317,altas
 2020-04-14,06,Cantabria,323,altas
 2020-04-15,06,Cantabria,363,altas
+2020-04-16,06,Cantabria,442,altas
+2020-04-17,06,Cantabria,510,altas
+2020-04-18,06,Cantabria,534,altas
+2020-04-19,06,Cantabria,610,altas
+2020-04-20,06,Cantabria,626,altas
+2020-04-21,06,Cantabria,646,altas
 2020-03-16,08,Castilla-La Mancha,12,altas
 2020-03-17,08,Castilla-La Mancha,12,altas
 2020-03-18,08,Castilla-La Mancha,15,altas
@@ -3376,6 +3892,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,08,Castilla-La Mancha,2532,altas
 2020-04-14,08,Castilla-La Mancha,2943,altas
 2020-04-15,08,Castilla-La Mancha,2998,altas
+2020-04-16,08,Castilla-La Mancha,3378,altas
+2020-04-17,08,Castilla-La Mancha,3600,altas
+2020-04-18,08,Castilla-La Mancha,3838,altas
+2020-04-19,08,Castilla-La Mancha,3963,altas
+2020-04-20,08,Castilla-La Mancha,4178,altas
+2020-04-21,08,Castilla-La Mancha,4242,altas
 2020-03-16,07,Castilla y León,5,altas
 2020-03-17,07,Castilla y León,5,altas
 2020-03-18,07,Castilla y León,5,altas
@@ -3407,6 +3929,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,07,Castilla y León,4154,altas
 2020-04-14,07,Castilla y León,4266,altas
 2020-04-15,07,Castilla y León,4521,altas
+2020-04-16,07,Castilla y León,4725,altas
+2020-04-17,07,Castilla y León,4924,altas
+2020-04-18,07,Castilla y León,5103,altas
+2020-04-19,07,Castilla y León,5262,altas
+2020-04-20,07,Castilla y León,5366,altas
+2020-04-21,07,Castilla y León,5429,altas
 2020-03-16,09,Cataluña,0,altas
 2020-03-17,09,Cataluña,0,altas
 2020-03-18,09,Cataluña,0,altas
@@ -3438,6 +3966,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,09,Cataluña,15602,altas
 2020-04-14,09,Cataluña,15967,altas
 2020-04-15,09,Cataluña,16651,altas
+2020-04-16,09,Cataluña,17297,altas
+2020-04-17,09,Cataluña,12787,altas
+2020-04-18,09,Cataluña,13275,altas
+2020-04-19,09,Cataluña,13691,altas
+2020-04-20,09,Cataluña,13934,altas
+2020-04-21,09,Cataluña,14446,altas
 2020-03-16,18,Ceuta,0,altas
 2020-03-17,18,Ceuta,0,altas
 2020-03-18,18,Ceuta,0,altas
@@ -3469,6 +4003,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,18,Ceuta,20,altas
 2020-04-14,18,Ceuta,22,altas
 2020-04-15,18,Ceuta,30,altas
+2020-04-16,18,Ceuta,41,altas
+2020-04-17,18,Ceuta,44,altas
+2020-04-18,18,Ceuta,53,altas
+2020-04-19,18,Ceuta,59,altas
+2020-04-20,18,Ceuta,74,altas
+2020-04-21,18,Ceuta,73,altas
 2020-03-16,10,C. Valenciana,2,altas
 2020-03-17,10,C. Valenciana,12,altas
 2020-03-18,10,C. Valenciana,16,altas
@@ -3500,6 +4040,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,10,C. Valenciana,2803,altas
 2020-04-14,10,C. Valenciana,3069,altas
 2020-04-15,10,C. Valenciana,3360,altas
+2020-04-16,10,C. Valenciana,3702,altas
+2020-04-17,10,C. Valenciana,4024,altas
+2020-04-18,10,C. Valenciana,4306,altas
+2020-04-19,10,C. Valenciana,4547,altas
+2020-04-20,10,C. Valenciana,4629,altas
+2020-04-21,10,C. Valenciana,4719,altas
 2020-03-16,11,Extremadura,4,altas
 2020-03-17,11,Extremadura,5,altas
 2020-03-18,11,Extremadura,6,altas
@@ -3531,6 +4077,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,11,Extremadura,511,altas
 2020-04-14,11,Extremadura,578,altas
 2020-04-15,11,Extremadura,615,altas
+2020-04-16,11,Extremadura,649,altas
+2020-04-17,11,Extremadura,707,altas
+2020-04-18,11,Extremadura,736,altas
+2020-04-19,11,Extremadura,767,altas
+2020-04-20,11,Extremadura,858,altas
+2020-04-21,11,Extremadura,921,altas
 2020-03-16,12,Galicia,4,altas
 2020-03-17,12,Galicia,7,altas
 2020-03-18,12,Galicia,7,altas
@@ -3562,6 +4114,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,12,Galicia,1186,altas
 2020-04-14,12,Galicia,1240,altas
 2020-04-15,12,Galicia,1298,altas
+2020-04-16,12,Galicia,1383,altas
+2020-04-17,12,Galicia,1456,altas
+2020-04-18,12,Galicia,1507,altas
+2020-04-19,12,Galicia,1536,altas
+2020-04-20,12,Galicia,1548,altas
+2020-04-21,12,Galicia,1588,altas
 2020-03-16,13,Madrid,474,altas
 2020-03-17,13,Madrid,951,altas
 2020-03-18,13,Madrid,951,altas
@@ -3593,6 +4151,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,13,Madrid,25385,altas
 2020-04-14,13,Madrid,26247,altas
 2020-04-15,13,Madrid,27433,altas
+2020-04-16,13,Madrid,28491,altas
+2020-04-17,13,Madrid,29436,altas
+2020-04-18,13,Madrid,30475,altas
+2020-04-19,13,Madrid,31313,altas
+2020-04-20,13,Madrid,31762,altas
+2020-04-21,13,Madrid,32277,altas
 2020-03-16,19,Melilla,0,altas
 2020-03-17,19,Melilla,0,altas
 2020-03-18,19,Melilla,0,altas
@@ -3624,6 +4188,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,19,Melilla,18,altas
 2020-04-14,19,Melilla,18,altas
 2020-04-15,19,Melilla,24,altas
+2020-04-16,19,Melilla,27,altas
+2020-04-17,19,Melilla,30,altas
+2020-04-18,19,Melilla,30,altas
+2020-04-19,19,Melilla,44,altas
+2020-04-20,19,Melilla,46,altas
+2020-04-21,19,Melilla,46,altas
 2020-03-16,14,Murcia,1,altas
 2020-03-17,14,Murcia,1,altas
 2020-03-18,14,Murcia,1,altas
@@ -3655,6 +4225,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,14,Murcia,353,altas
 2020-04-14,14,Murcia,476,altas
 2020-04-15,14,Murcia,513,altas
+2020-04-16,14,Murcia,516,altas
+2020-04-17,14,Murcia,545,altas
+2020-04-18,14,Murcia,638,altas
+2020-04-19,14,Murcia,652,altas
+2020-04-20,14,Murcia,662,altas
+2020-04-21,14,Murcia,702,altas
 2020-03-16,15,Navarra,0,altas
 2020-03-17,15,Navarra,0,altas
 2020-03-18,15,Navarra,0,altas
@@ -3686,6 +4262,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,15,Navarra,695,altas
 2020-04-14,15,Navarra,730,altas
 2020-04-15,15,Navarra,808,altas
+2020-04-16,15,Navarra,845,altas
+2020-04-17,15,Navarra,892,altas
+2020-04-18,15,Navarra,954,altas
+2020-04-19,15,Navarra,992,altas
+2020-04-20,15,Navarra,1123,altas
+2020-04-21,15,Navarra,1190,altas
 2020-03-16,16,País Vasco,5,altas
 2020-03-17,16,País Vasco,11,altas
 2020-03-18,16,País Vasco,14,altas
@@ -3717,6 +4299,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,16,País Vasco,5026,altas
 2020-04-14,16,País Vasco,5193,altas
 2020-04-15,16,País Vasco,5428,altas
+2020-04-16,16,País Vasco,5813,altas
+2020-04-17,16,País Vasco,6144,altas
+2020-04-18,16,País Vasco,6556,altas
+2020-04-19,16,País Vasco,6972,altas
+2020-04-20,16,País Vasco,7124,altas
+2020-04-21,16,País Vasco,7277,altas
 2020-03-16,17,La Rioja,2,altas
 2020-03-17,17,La Rioja,2,altas
 2020-03-18,17,La Rioja,2,altas
@@ -3748,6 +4336,12 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,17,La Rioja,1458,altas
 2020-04-14,17,La Rioja,1519,altas
 2020-04-15,17,La Rioja,1585,altas
+2020-04-16,17,La Rioja,1654,altas
+2020-04-17,17,La Rioja,1729,altas
+2020-04-18,17,La Rioja,1777,altas
+2020-04-19,17,La Rioja,1816,altas
+2020-04-20,17,La Rioja,1833,altas
+2020-04-21,17,La Rioja,1866,altas
 2020-03-16,00,Total,530,altas
 2020-03-17,00,Total,1028,altas
 2020-03-18,00,Total,1081,altas
@@ -3779,3 +4373,9 @@ fecha,cod_ine,CCAA,total,tipo
 2020-04-13,00,Total,64727,altas
 2020-04-14,00,Total,67504,altas
 2020-04-15,00,Total,70853,altas
+2020-04-16,00,Total,74797,altas
+2020-04-17,00,Total,72963,altas
+2020-04-18,00,Total,76169,altas
+2020-04-19,00,Total,78893,altas
+2020-04-20,00,Total,80587,altas
+2020-04-21,00,Total,82514,altas

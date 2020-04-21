@@ -24,7 +24,7 @@ use_python("/usr/bin/python")
 
 # Carga y limpieza preeliminar de lso datos
 
-Los datos que se analizan proceden de la compilación de gente en [Kaggle](https://www.kaggle.com/imdevskp/corona-virus-report). La fecha del análisis empieza el 19 de Abril de 2020, utilizándo la **versión 83** del web anterior.
+Los datos que se analizan proceden de la compilación de gente en [Kaggle](https://www.kaggle.com/imdevskp/corona-virus-report). La fecha del análisis empieza el 20 de Abril de 2020, utilizándo la **versión 84** del web anterior.
 
 ```{python}
 # 1- Ejecutar la tabla del COVID con Python
